@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../GitHub/McWhiteley"
+		},
+		{
+			"name": "McWhiteley-notes",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "McWhiteley"
+	}
+}
